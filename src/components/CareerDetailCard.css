@@ -1,0 +1,16 @@
+.career-card {
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin: 10px;
+    background-color: #f9f9f9;
+    display: flexbox;
+  }
+  
+ 
+
+  .career-cards-container {
+    display: flex;
+    flex-wrap: wrap; /* Allow cards to wrap to a new line if needed */
+     
+  }
+  

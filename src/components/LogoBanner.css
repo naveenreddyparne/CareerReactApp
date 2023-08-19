@@ -1,0 +1,14 @@
+.logo-banner {
+    background-color: rgb(57, 56, 55);
+    color: white;
+    overflow: hidden;
+    align-content: center;
+    font-display: flex;
+    
+    
+}
+
+.title{
+
+    justify-self: center;
+}
